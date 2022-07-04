@@ -14,3 +14,5 @@ FB粉專_Blueberry學堂_問答遊戲
 * Python: Requests, Pandas,
 * Facebook API
 * Ngrok
+### 遊戲邏輯概念圖
+![概念圖](https://user-images.githubusercontent.com/81075616/177077893-f942839d-6906-4184-8e91-0513bc474bb8.png)
